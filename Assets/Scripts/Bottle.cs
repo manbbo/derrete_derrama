@@ -49,9 +49,9 @@ public class Bottle : MonoBehaviour
             {
                 //ele assume a posição relativa do mouse
                this.transform.localPosition = 
-                    new Vector3(-1.45f + ((Input.mousePosition.x / 110)-factor), 
+                    new Vector3(-1.1f + ((Input.mousePosition.x / 110)-factor), 
                     this.firstPosition.y,
-                    0.1f + ((Input.mousePosition.y / 110)-factor));
+                    ((Input.mousePosition.y / 110)-factor));
             }
         }
     }
