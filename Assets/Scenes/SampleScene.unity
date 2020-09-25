@@ -8577,7 +8577,7 @@ GameObject:
   - component: {fileID: 863023062}
   m_Layer: 12
   m_Name: Liquid1
-  m_TagString: Untagged
+  m_TagString: MainLiquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8702,7 +8702,7 @@ GameObject:
   - component: {fileID: 875280548}
   m_Layer: 8
   m_Name: Liquid1
-  m_TagString: Untagged
+  m_TagString: MainLiquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26429,7 +26429,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1480709339}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.2
+  m_Size: 0.1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -26470,7 +26470,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985026009}
-  m_CullTransparentMesh: 0
+  m_CullTransparentMesh: 1
 --- !u!114 &1985026014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26483,6 +26483,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8dde6c4fdc48df42a146f009773f1c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  value: 0
 --- !u!1 &2047060399
 GameObject:
   m_ObjectHideFlags: 0
@@ -26499,7 +26500,7 @@ GameObject:
   - component: {fileID: 2047060405}
   m_Layer: 11
   m_Name: Liquid1
-  m_TagString: Untagged
+  m_TagString: MainLiquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
