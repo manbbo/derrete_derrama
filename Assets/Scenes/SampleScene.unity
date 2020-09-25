@@ -1645,7 +1645,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh14826
+  m_Name: pb_Mesh14834
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3429,7 +3429,7 @@ GameObject:
   - component: {fileID: 606398527}
   m_Layer: 0
   m_Name: Materials-Iogurte
-  m_TagString: Untagged
+  m_TagString: MainLiquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8577,7 +8577,7 @@ GameObject:
   - component: {fileID: 863023062}
   m_Layer: 12
   m_Name: Liquid1
-  m_TagString: MainLiquid
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8702,7 +8702,7 @@ GameObject:
   - component: {fileID: 875280548}
   m_Layer: 8
   m_Name: Liquid1
-  m_TagString: MainLiquid
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8986,7 +8986,7 @@ GameObject:
   - component: {fileID: 946247253}
   m_Layer: 0
   m_Name: Materials-Sorvete
-  m_TagString: Untagged
+  m_TagString: MainLiquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10505,7 +10505,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh14910
+  m_Name: pb_Mesh14942
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15915,7 +15915,7 @@ GameObject:
   - component: {fileID: 1630595594}
   m_Layer: 0
   m_Name: Materials-Cheddar
-  m_TagString: Untagged
+  m_TagString: MainLiquid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26500,7 +26500,7 @@ GameObject:
   - component: {fileID: 2047060405}
   m_Layer: 11
   m_Name: Liquid1
-  m_TagString: MainLiquid
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
