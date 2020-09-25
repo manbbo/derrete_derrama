@@ -7,14 +7,16 @@
 
 > Game em 3D feito na Unity 3D para processo seletivo da Javary Co.
 
-### Algumas Screenshots
-<img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/1.png" height="400em"/>
-<img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/2.png" height="400em"/>
+- Algumas Screenshots
 
-#### Quando você utiliza o Slider de Tempo
+<img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/1.png" height="400em"/>
+ <img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/2.png" height="400em"/>
+
+- Quando você utiliza o Slider de Tempo
+
 <img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/3.png" height="400em"/>
-<img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/4.png" height="400em"/>
-<img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/5.png" height="400em"/>
+ <img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/4.png" height="400em"/>
+  <img src="https://github.com/manbbo/derrete_derrama/blob/master/Images/5.png" height="400em"/>
 
 ## Installation
 
