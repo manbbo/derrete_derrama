@@ -1576,7 +1576,7 @@ MonoBehaviour:
   otherBottles:
   - {fileID: 1333203896}
   - {fileID: 492588595}
-  factor: 0.5
+  factor: 0.1
   pourOver: {fileID: 1933377987}
 --- !u!850595691 &188947804
 LightingSettings:
@@ -1645,7 +1645,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh14834
+  m_Name: pb_Mesh30404
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3290,7 +3290,7 @@ MonoBehaviour:
   otherBottles:
   - {fileID: 1333203896}
   - {fileID: 145620815}
-  factor: 0.5
+  factor: 0.1
   pourOver: {fileID: 1933377987}
 --- !u!1 &504323184
 GameObject:
@@ -8817,7 +8817,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh14668
+  m_Name: pb_Mesh30238
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -10497,7 +10497,7 @@ MonoBehaviour:
   otherBottles:
   - {fileID: 492588595}
   - {fileID: 145620815}
-  factor: 0.5
+  factor: 0.1
   pourOver: {fileID: 1933377987}
 --- !u!43 &1347090630
 Mesh:
@@ -10505,7 +10505,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh14942
+  m_Name: pb_Mesh25054
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15746,7 +15746,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh14708
+  m_Name: pb_Mesh30278
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
